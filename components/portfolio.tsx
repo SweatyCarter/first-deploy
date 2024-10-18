@@ -19,8 +19,8 @@ export function Portfolio() {
         <section>
           <h2 className="text-2xl font-semibold mb-4">About Me</h2>
           <p className="text-muted-foreground">
-            Hello! I'm a web developer passionate about creating clean and functional websites. 
-            I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn new technologies.
+            Hello! I&#39;m a web developer passionate about creating clean and functional websites. 
+            I specialize in HTML, CSS, and JavaScript, and I&#39;m always eager to learn new technologies.
           </p>
         </section>
 
